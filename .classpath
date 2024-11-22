@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="greenFlow/src/main/java"/>
+	<classpathentry kind="lib" path="__MACOSX/projetoTeste/lib/._ojdbc11.jar"/>
+	<classpathentry kind="lib" path="greenFlow/lib/ojdbc11.jar"/>
+	<classpathentry kind="output" path="greenFlow/build/classes"/>
+</classpath>
